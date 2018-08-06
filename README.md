@@ -4,6 +4,4 @@
 "Hello World" of Deep Learning
 
 Build Convolutional Neural Networks with keras - 
-show video on YouTube
-
-[https://www.youtube.com/watch?v=FW38VRP-E9M](url)
+show video on [YouTube](https://www.youtube.com/watch?v=FW38VRP-E9M)
